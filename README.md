@@ -1,6 +1,3 @@
-
-
-
 ### Application description
 
 Dockerized Django with Postgres, Gunicorn, and Nginx
