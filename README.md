@@ -20,7 +20,7 @@ Your task is to move this project to kubernetes platform and make it production-
 
 1. Written all necessary kubernetes yaml manifests
 2. Monitoring through prometheus-operator
-3. The app is stateless, however, the db should be persistent
+3. The app data should be persistent
 4. Load-balancing and HA
 
 ### Nice-to-have requirements
