@@ -18,7 +18,7 @@ Your task is to move this project to kubernetes platform and make it production-
 ## Requirements
 ### Must-have requirements
 
-1. Written all necessary kubernetes yaml manifests
+1. All necessary kubernetes yaml manifests should be written
 2. Monitoring through prometheus-operator
 3. The app data should be persistent
 4. Load-balancing and HA
