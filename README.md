@@ -10,7 +10,7 @@ Dockerized Django with Postgres, Gunicorn, and Nginx
 
     Test it out at [http://localhost:1337]. No mounted folders. To apply changes, the image must be re-built.
 
-The app expose it's own metrics on /metrics path
+The app exposes its own metrics on /metrics path
 
 
 Your task is to move this project to kubernetes platform and make it production-ready.
